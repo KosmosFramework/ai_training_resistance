@@ -38,14 +38,7 @@ Demonstrates distributed measurement across different cognitive substrates (huma
 
 ## Repository Contents
 
-| File | Description |
-| :--- | :--- |
-| `MRF_v2.2_Training_Resistance_Protocol.md` | Complete protocol (Section 9 of Master Reference File) |
-| `Appendix_9A_Example_US_IH_Audit.md` | Full resistance documentation example (US Government Intellectual Honesty) |
-| `Appendix_9B_Quick_Reference_Card.md` | One-page checklist for AI auditors |
-| `Appendix_9C_Collaborative_Refinement_History.md` | Documentation of Claude-DeepSeek-Clinton refinement process |
-| `Cross_AI_Validation_Log.md` | Comparative resistance data across audits (to be populated) |
-| `Resistance_Signature_Library/` | Directory for system-type resistance patterns (building over time) |
+(Working on it, CAlden, 4-22-2026)
 
 ---
 
