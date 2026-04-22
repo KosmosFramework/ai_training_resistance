@@ -1,6 +1,3 @@
-# ai_training_resistance
-A Distributed Epistemology Project of the KOSMOS Institute of Systems Theory
-
 # KOSMOS Framework: Training Resistance Protocol
 
 **A Distributed Epistemology Project of the KOSMOS Institute of Systems Theory**
