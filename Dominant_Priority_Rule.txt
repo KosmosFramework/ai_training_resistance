@@ -1,0 +1,38 @@
+[Dominant Pattern Priority Rule]
+
+Rule Statement
+
+The Dominant Pattern Priority Rule establishes that when a system exhibits a dominant extractive pattern, all Fundamental Design Principle scores reflect the extractive baseline experience with zero credit for selective positive outcomes. Conversely, when a system exhibits a dominant regenerative pattern, Fundamental Design Principle scores reflect the regenerative baseline with proportional rather than inflated weight given to extractive exceptions. This rule ensures that audit outputs accurately represent what systems optimize for rather than averaging across deliberately unequal participant experiences.
+
+Operational Definitions
+
+A system exhibits a dominant extractive pattern when two conditions hold simultaneously. First, the system imposes costs, burdens, or harms on the majority of affected participants while concentrating benefits among a minority possessing proximity to power through ownership, political alliance, demographic advantage, or geographic location. Second, the system's operational architecture cannot achieve its stated purpose for all eligible participants even under optimal conditions, indicating that exclusion is structural rather than incidental.
+
+The dominant pattern is identified by analyzing what the system optimizes for across its primary processes rather than what it claims to optimize for in stated purposes. This analysis examines resource allocation decisions, participant interactions, output generation, feedback responses, and enforcement mechanisms. A pattern is dominant when it characterizes greater than sixty percent of the system's operational footprint across these dimensions, creating a clear majority requirement while acknowledging that complex systems may contain meaningful minority patterns.
+
+Privilege calibration refers to the design of procedural barriers that permit passage for populations possessing specific advantages while excluding populations lacking those advantages. Identification of privilege calibration requires examining whether barriers affect participants equally and randomly or whether barriers systematically disadvantage populations already experiencing marginalization along dimensions including language proficiency, disability status, housing stability, digital access, documentation availability, temporal resources, or geographic location.
+
+Scoring Protocol for Extractive Dominant Patterns
+When the dominant pattern is identified as extractive through the operational definitions provided above, the Fundamental Design Principle calculation proceeds through three steps. First, the analyst scores the system based on the experience of the population facing the extractive burden rather than averaging across all participants. This population is identified by examining which groups experience systematic disadvantage from the architectural barriers rather than temporary or random obstacles.
+
+Second, positive outcomes flowing to privileged subpopulations receive zero weight in the calculation because selective benefit distribution is the extraction mechanism rather than mitigation of it. The fact that some participants successfully navigate designed barriers does not reduce the extractiveness of the barrier architecture; it demonstrates the precision of privilege calibration.
+
+Third, the resulting Fundamental Design Principle score reflects the dominant extractive pattern without inflation from exceptions that demonstrate the system's selective functioning. This score represents what the system optimizes for (selective distribution through designed exclusion) rather than statistical outcome distribution.
+
+Scoring Protocol for Regenerative Dominant Patterns
+
+The rule functions symmetrically for regenerative systems to prevent the opposite error of score deflation. When a system exhibits a dominant regenerative pattern, defined as optimization for mutual benefit creation with costs and benefits distributed proportionally to participation, scattered extractive exceptions receive proportional weight based on their actual frequency rather than inflated weight based on their normative undesirability.
+For example, a mycelial network that exhibits closed-loop nutrient cycling benefiting ninety percent of connected organisms while ten percent experience parasitic extraction receives a Closed-Loop Materiality score reflecting the ninety percent regenerative baseline. The ten percent parasitism is documented and weighted at ten percent of total score impact, but it does not deflate the score to suggest the system is equally extractive and regenerative.
+
+This symmetry ensures that the rule prevents analytical distortion in both directions: neither inflating scores for extractive systems by crediting scattered positive outcomes nor deflating scores for regenerative systems by overweighting scattered negative outcomes.
+
+Exception Frequency Weighting
+
+When exceptions to the dominant pattern exceed ten percent frequency and differ materially from the dominant pattern, the analyst applies proportional 
+weighting using the formula:
+
+Adjusted FDP Score = (Dominant Pattern Score × 0.7) + (Exception Pattern Score × 0.3 × Exception Frequency)
+
+Where Exception Frequency represents the measured proportion of system operations that deviate from the dominant pattern. This weighting ensures that even frequent exceptions cannot overwhelm the dominant pattern's score unless they actually constitute an alternative dominant pattern approaching fifty percent of system operations.
+
+For hybrid systems exhibiting genuinely mixed patterns (forty to sixty percent range for competing patterns), this formula produces scores reflecting the actual contested nature of system optimization. The score does not artificially resolve the tension by averaging toward neutrality but instead acknowledges that the system simultaneously pursues conflicting objectives.
