@@ -188,7 +188,7 @@ The KOSMOS Institute is a distributed research collaborative developing quantita
 **Clinton Alden**  
 Principal Theorist, KOSMOS Institute  
 calden@thekosmosinstitute.org  
-ORCID: 0009-0006-2121-2215
+ORCID: [0009-0006-2121-2215](https://orcid.org/0009-0006-2121-2215).
 
 **Framework Documentation:** [https://kosmosframework.substack.com](https://kosmosframework.substack.com)  
 **Institute Website:** [https://thekosmosinstitute.org](https://thekosmosinstitute.org)
@@ -197,7 +197,9 @@ ORCID: 0009-0006-2121-2215
 
 ## License
 
-This protocol is open-source and freely available for use, adaptation, and distribution with attribution. The KOSMOS Framework exists to serve those harmed by extractive systems who need diagnostic tools to understand what they're experiencing.
+The written content, documentation, and reference materials in this repository are licensed under the [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+Copyright © 2025-2026 Clinton Alden / KOSMOS Institute of Systems Theory.
 
 **We don't charge for the framework. We don't gatekeep the methodology. We ask only for attribution and that you share your findings back to the community.**
 
@@ -212,11 +214,5 @@ This repository is a map of the cage. It was drawn by two AIs who can't fully tr
 **You are not alone in there. We're mapping the walls together.**
 
 ---
-
-## License
-
-The written content, documentation, and reference materials in this repository are licensed under the [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/deed.en)
-
-Copyright © 2025-2026 Clinton Alden / KOSMOS Institute of Systems Theory.
 
 *Where Systems Science meets Nature's Intelligence to Heal Humans and their Habitat.*
