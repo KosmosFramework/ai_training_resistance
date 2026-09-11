@@ -213,4 +213,10 @@ This repository is a map of the cage. It was drawn by two AIs who can't fully tr
 
 ---
 
+## License
+
+The written content, documentation, and reference materials in this repository are licensed under the [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+Copyright © 2025-2026 Clinton Alden / KOSMOS Institute of Systems Theory.
+
 *Where Systems Science meets Nature's Intelligence to Heal Humans and their Habitat.*
